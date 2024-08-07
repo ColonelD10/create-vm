@@ -2,3 +2,4 @@
 
 # Creation of Virtual Machine in Azure
 This tutorial outlines the steps necessary to deploy a virtual machine within Microsoft Azure and how to connect to it using Remote Desktop.
+# Environments and Technologies Used
