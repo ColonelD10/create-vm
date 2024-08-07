@@ -7,5 +7,10 @@ This tutorial outlines the steps necessary to deploy a virtual machine within Mi
 - Remote Desktop
 # Operating Systems Used
 - Windows 11
+# Process Overview
+- Create Resource Group
+- Create Virtual Machine in Resource Group
+- Obtain Virtual Machine's Public IP Address from Azure
+- Connect to it using Remote Desktop
 # Create Resource Group
 Your first step is to create a resource group for the virtual machine to live in. This will decide the global region that your cloud server will reside in and you can organize it with a name.
