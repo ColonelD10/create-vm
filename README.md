@@ -41,3 +41,17 @@ Now you can create your virtual machine within your resource group. To do this n
 ![Create Virtual Machine](https://github.com/user-attachments/assets/0dcea63b-c0da-43bc-b1fd-26302c07a964)
 
 Click the blue 'create' button in the center or the 'create' button in the top left of the screen. After clicking either a drop down menu will appear. Click the first option 'Azure virtual machine'.
+
+![Create Virtual Machine 2](https://github.com/user-attachments/assets/8498a9d3-07f5-4bed-8722-01fc000b71c1)
+
+You will be taken to the 'Create a virtual machine' screen. In the 'Basics' section, the resource group you just created should appear in a drop down menu for the 'Resource group' line. Select it. Then give your virtual machine a name and select the region it will be in. In most basic applications this should be the same region that you selected for your resource group. Leave 'Availability options', 'Zone options', and 'Availability zones' as they are for now and scroll down.
+
+![Create virtual machine 3](https://github.com/user-attachments/assets/1071c850-3ba3-4595-b4ae-925e01ebba86)
+
+Leave 'Security type' as it is. The 'Image' option is where you will select which operating system your virtual machine will use and how many virtual central processing units it will have as well as how much memory it will have. You then must create a username and a password to be able to sign in to the virtual machine. These options will only be available in some zones. If an option is not available in the zone you have selected in the previous section, Azure will notify you, after which you can go back and change the zone your vitual machine will be created in. After filling in these fields scroll down.
+
+![Create virtual machine 4](https://github.com/user-attachments/assets/f55371e3-030d-4bfd-b959-8bb7513fa944)
+
+Leave all the 'Inbound port rules' as they are. Check the box in the 'Licensing' section.
+
+![Create virtual machine 5](https://github.com/user-attachments/assets/13a84c78-645c-4624-9cc2-2e4175611531)
