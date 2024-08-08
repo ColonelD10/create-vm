@@ -27,6 +27,10 @@ Now fill out your resource group's name and select a region.
 
 ![Name Group and select region](https://github.com/user-attachments/assets/da0b0c70-ac72-456d-8b40-406fe6568e63)
 
-Skip past the 'Tags" section and you will be taken to the 'Review + create' section. As long as your resource group's name meets criteria you will be able to create it by clicking the 'Create' button in the bottom left of the screen. After doing so Azure will generate your resource group.
+Skip past the 'Tags' section and you will be taken to the 'Review + create' section. As long as your resource group's name meets criteria you will be able to create it by clicking the 'Create' button in the bottom left of the screen. After doing so Azure will generate your resource group.
 
 ![Validation and creation](https://github.com/user-attachments/assets/b7b74afb-359e-4d23-ba4a-5b661f13a1cf)
+
+From the main menu you can click on 'Resource groups' again after you've gotten the notification that it's been created to access the resource group and all the functions associated with it.
+
+![Resource group home page](https://github.com/user-attachments/assets/1387afb5-2de0-4c5f-8a74-5a7a3d152f2a)
