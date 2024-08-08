@@ -35,4 +35,4 @@ From the main menu you can click on 'Resource groups' again after you've gotten 
 
 ![Resource group home page](https://github.com/user-attachments/assets/1387afb5-2de0-4c5f-8a74-5a7a3d152f2a)
 
-#Create Virtual Machine
+# Create Virtual Machine
