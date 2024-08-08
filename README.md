@@ -14,3 +14,6 @@ This tutorial outlines the steps necessary to deploy a virtual machine within Mi
 - Connect to it using Remote Desktop
 # Create Resource Group
 Your first step is to create a resource group for the virtual machine to live in. This will decide the global region that your cloud server will reside in and you can organize it with a name.
+
+After creating an Azure account, sign in and you will be taken to the Azure home screen/dashboard. Here you'll find common Azure services and a search bar at the top. Click on 'Resource groups' or type it into the search bar to be able to click it.
+"C:\Users\eulog\OneDrive\Documents\Portfolio\CC Practical Assessment\Create Resource Group.png"
