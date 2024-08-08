@@ -55,3 +55,7 @@ Leave 'Security type' as it is. The 'Image' option is where you will select whic
 Leave all the 'Inbound port rules' as they are. Check the box in the 'Licensing' section.
 
 ![Create virtual machine 5](https://github.com/user-attachments/assets/13a84c78-645c-4624-9cc2-2e4175611531)
+
+As this is a basic tutorial, we won't bother with any of the other sections aside from 'Basic', so click the blue 'Review + create' button. Azure will validate your selections and if they pass, you will see a green check mark in the top left of the screen. On this screen you will also be able to see all the selections you made, as well as an estimated monthly cost for the virtual machine.
+
+![Create virtual machine 6](https://github.com/user-attachments/assets/a742c051-4067-4504-ba19-6436bccebc43)
