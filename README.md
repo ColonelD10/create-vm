@@ -36,3 +36,8 @@ From the main menu you can click on 'Resource groups' again after you've gotten 
 ![Resource group home page](https://github.com/user-attachments/assets/1387afb5-2de0-4c5f-8a74-5a7a3d152f2a)
 
 # Create Virtual Machine
+Now you can create your virtual machine within your resource group. To do this navigate back to the Azure home screen and like with the resource group, click 'Virtual machines' in the row in the middle or search the term in the search bar.
+
+![Create Virtual Machine](https://github.com/user-attachments/assets/0dcea63b-c0da-43bc-b1fd-26302c07a964)
+
+Click the blue 'create' button in the center or the 'create' button in the top left of the screen. After clicking either a drop down menu will appear. Click the first option 'Azure virtual machine'.
