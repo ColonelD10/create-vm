@@ -34,3 +34,5 @@ Skip past the 'Tags' section and you will be taken to the 'Review + create' sect
 From the main menu you can click on 'Resource groups' again after you've gotten the notification that it's been created to access the resource group and all the functions associated with it.
 
 ![Resource group home page](https://github.com/user-attachments/assets/1387afb5-2de0-4c5f-8a74-5a7a3d152f2a)
+
+#Create Virtual Machine
