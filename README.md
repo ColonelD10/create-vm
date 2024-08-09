@@ -80,4 +80,10 @@ Copy/paste or type your virtual machine's public IP address into the 'Computer' 
 
 ![Remote desktop 1](https://github.com/user-attachments/assets/25cd34bf-aa75-4996-9a45-4d84274fc8be)
 
-You will be taken to a screen asking for sign in credentials. 
+You will be taken to a screen asking for sign in credentials. It may have populated your Windows account in the username but we want to use the credentials we created in Azure to sign in so click 'More choices' and then 'Use a different account'. This will allow you to enter the username and password you created in Azure.
+
+![Remote desktop 2](https://github.com/user-attachments/assets/675727f8-f733-4a38-a2f8-0a7913b404b4)
+
+Once you enter your credentials one last window will pop up. Just click 'Yes' in this window and your virtual machine will begin to load. You should see a blue bar at the top of your screen indicating that this is a remote session and the virtual machine's IP address will appear in it. You should see the standard Windows sign in screen with whatever you chose as your username as the profile. You are now connected to your virtual machine!
+
+![Remote desktop 3](https://github.com/user-attachments/assets/db16bc69-5ae2-424d-9911-0748eb4da699)
