@@ -48,7 +48,7 @@ You will be taken to the 'Create a virtual machine' screen. In the 'Basics' sect
 
 ![Create virtual machine 3](https://github.com/user-attachments/assets/1071c850-3ba3-4595-b4ae-925e01ebba86)
 
-Leave 'Security type' as it is. The 'Image' option is where you will select which operating system your virtual machine will use and how many virtual central processing units it will have as well as how much memory it will have. You then must create a username and a password to be able to sign in to the virtual machine. These options will only be available in some zones. If an option is not available in the zone you have selected in the previous section, Azure will notify you, after which you can go back and change the zone your vitual machine will be created in. After filling in these fields scroll down.
+Leave 'Security type' as it is. The 'Image' option is where you will select which operating system your virtual machine will use and how many virtual central processing units it will have as well as how much memory it will have. You then must create a username and a password to be able to sign in to the virtual machine. *Write these down for later!* These options will only be available in some zones. If an option is not available in the zone you have selected in the previous section, Azure will notify you, after which you can go back and change the zone your vitual machine will be created in. After filling in these fields scroll down.
 
 ![Create virtual machine 4](https://github.com/user-attachments/assets/f55371e3-030d-4bfd-b959-8bb7513fa944)
 
@@ -59,3 +59,25 @@ Leave all the 'Inbound port rules' as they are. Check the box in the 'Licensing'
 As this is a basic tutorial, we won't bother with any of the other sections aside from 'Basic', so click the blue 'Review + create' button. Azure will validate your selections and if they pass, you will see a green check mark in the top left of the screen. On this screen you will also be able to see all the selections you made, as well as an estimated monthly cost for the virtual machine. Click the blue 'Create' button to deploy your virtual machine.
 
 ![Create virtual machine 6](https://github.com/user-attachments/assets/a742c051-4067-4504-ba19-6436bccebc43)
+
+# Obtain Virtual Machine's IP Address from Azure
+
+In order to connect to the virtual machine you will need its public IP address. To find this once again click on 'Virtual machines' in the bar in the middle on the Azure home screen or search the term in the search bar. Your virtual machine will be listed on this page as long as it was successfully deployed. Click on it.
+
+![Click on virtual machine](https://github.com/user-attachments/assets/c775d502-6f14-4a02-a87a-3d8f1c76f7f4)
+
+This will take you to the overview screen for your virtual machine. Its public IP address is listed on this page in the top right corner of the 'Essentials' section. Copy it or write it down.
+
+![Virtual machine IP address](https://github.com/user-attachments/assets/e555dd6b-9576-4311-ac55-2bb452b072c1)
+
+# Connect using Remote Desktop
+
+Now that you have your virtual machine's public IP address you can connect to it using Remote Desktop. To open Remote Desktop, click on the Windows button in your taskbar and type 'remote' into the search bar. Click on Remote Desktop to open it.
+
+![Finding remote desktop](https://github.com/user-attachments/assets/9a504aa2-a680-4613-9b70-e419f9574e94)
+
+Copy/paste or type your virtual machine's public IP address into the 'Computer' line and click 'Connect'. 
+
+![Remote desktop 1](https://github.com/user-attachments/assets/25cd34bf-aa75-4996-9a45-4d84274fc8be)
+
+You will be taken to a screen asking for sign in credentials. 
