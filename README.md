@@ -48,7 +48,7 @@ You will be taken to the 'Create a virtual machine' screen. In the 'Basics' sect
 
 ![Create virtual machine 3](https://github.com/user-attachments/assets/1071c850-3ba3-4595-b4ae-925e01ebba86)
 
-Leave 'Security type' as it is. The 'Image' option is where you will select which operating system your virtual machine will use and how many virtual central processing units it will have as well as how much memory it will have. You then must create a username and a password to be able to sign in to the virtual machine. *Write these down for later!* These options will only be available in some zones. If an option is not available in the zone you have selected in the previous section, Azure will notify you, after which you can go back and change the zone your vitual machine will be created in. After filling in these fields scroll down.
+Leave 'Security type' as it is. The 'Image' option is where you will select which operating system your virtual machine will use and how many virtual central processing units it will have as well as how much memory it will have. You then must create a username and a password to be able to sign in to the virtual machine. *Write these down for later!* These options will only be available in some zones. If an option is not available in the zone you have selected in the previous section, Azure will notify you, after which you can go back and change the zone your vitual machine will be created in so that it is compatible with the 'Image' you selected. After filling in these fields scroll down.
 
 ![Create virtual machine 4](https://github.com/user-attachments/assets/f55371e3-030d-4bfd-b959-8bb7513fa944)
 
