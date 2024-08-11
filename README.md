@@ -40,7 +40,7 @@ Now you can create your virtual machine within your resource group. To do this n
 
 ![Create Virtual Machine](https://github.com/user-attachments/assets/0dcea63b-c0da-43bc-b1fd-26302c07a964)
 
-Click the blue 'create' button in the center or the 'create' button in the top left of the screen. After clicking either a drop down menu will appear. Click the first option 'Azure virtual machine'.
+Click the blue 'create' button in the center or the 'create' button in the top left of the screen. After clicking either button a drop down menu will appear. Click the first option 'Azure virtual machine'.
 
 ![Create Virtual Machine 2](https://github.com/user-attachments/assets/8498a9d3-07f5-4bed-8722-01fc000b71c1)
 
